@@ -1,2 +1,2 @@
 # revert-reset-practice
-Giyt
+Git動画講座用revertとreset
